@@ -34,7 +34,7 @@ const app = {
         {
             name: 'OTG',
             singer: 'Rosé',
-            path:'./assets./Music./song (3).mp3',
+            path:'./assets/Music./song (3).mp3',
             image:'./assets/img/anhnen (3).jpg',
         },
 

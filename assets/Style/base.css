@@ -1,0 +1,35 @@
+html{
+    font-size: 62.5%;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.6rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: normal;
+}
+a{
+    text-decoration: none;
+}
+img {
+    display: block;
+    max-width: 100%;
+}
+input,
+button,
+textarea,
+select {
+  outline: none;
+  font: inherit;
+  background-color: transparent;
+  border: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+:root{
+    --pink-color: rgb(255, 132, 152);
+}
